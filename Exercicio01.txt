@@ -2,3 +2,5 @@ Linha 1 inserida
 Alteração feature_branch
 Linha 3 online
 Linha 4 Segundo commit 
+Acréscimo da linha 5 - teste git rebase
+Linha 6 na feature_branch02
